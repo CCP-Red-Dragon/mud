@@ -1,3 +1,15 @@
+## Version 2.2.21
+
+Release date: Thu Feb 13 2025
+
+### Patch changes
+
+**[feat(explorer): tables viewer pagination (#3426)](https://github.com/latticexyz/mud/commit/581228bd857077023efdb496a9a44fa62ff89936)** (@latticexyz/explorer)
+
+The Explore tab's table viewer now supports pagination through limit/offset clauses in SQL queries.
+
+---
+
 ## Version 2.2.20
 
 Release date: Tue Feb 11 2025

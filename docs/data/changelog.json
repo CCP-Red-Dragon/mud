@@ -1,5 +1,29 @@
 [
   {
+    "version": "2.2.21",
+    "date": "2025-02-13T09:08:50.601Z",
+    "changes": {
+      "patch": [
+        {
+          "packages": [
+            {
+              "package": "@latticexyz/explorer",
+              "type": "patch"
+            }
+          ],
+          "description": "\nThe Explore tab's table viewer now supports pagination through limit/offset clauses in SQL queries.",
+          "type": 0,
+          "commitHash": "581228bd857077023efdb496a9a44fa62ff89936",
+          "authorName": "Karolis Ramanauskas",
+          "authorEmail": "hello@karolisram.com",
+          "title": "feat(explorer): tables viewer pagination (#3426)"
+        }
+      ],
+      "minor": [],
+      "major": []
+    }
+  },
+  {
     "version": "2.2.20",
     "date": "2025-02-11T11:38:20.747Z",
     "changes": {
